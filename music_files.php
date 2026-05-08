@@ -29,10 +29,10 @@
                 <audio controls>
                     <source src="elements/The State I Am In.mp3" type="audio/mpeg">
                 </audio>
-                <h4>Death Grips</h4>
-                <h5>Takyon (Death Yon)</h5>
+                <h4>Death Cab for Cutie</h4>
+                <h5>We Looked Like Giants</h5>
                 <audio controls>
-                    <source src="elements/05 Takyon (Death Yon).mp3" type="audio/mpeg">
+                    <source src="elements/10%20We%20Looked%20Like%20Giants.m4a" type="audio/mpeg">
                 </audio>
                 <h4>ANOHNI and the Johnsons</h4>
                 <h5>Fistful of Love</h5>
