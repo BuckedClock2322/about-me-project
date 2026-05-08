@@ -35,7 +35,9 @@
                 <h5>Blog Written: 23-06-25 13:51</h5>
                 <img src="elements/Little_Simz_-_Lotus.png" width="300" height="300">
                 <p>Also good soup.</p>
-                <iframe width="480" height="315" src="https://www.youtube.com/embed/Wwow6TNewmY?si=4YhRDe0hLH9K0Mg3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                <h5>Blog Update: 08-05-26 20:16</h5>
+                <p>It's funny to remember the circumstances I was in with this album. I'll remember playing it while waiting for 28 Years Later to start with the one I hope I'll remember.</p>
+                <iframe width="480" height="315" src="https://www.youtube.com/embed/Z2BplWSCZpY?si=BqFYAlAK77dyqVV4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
         </div>
     <div class="content">
@@ -44,7 +46,7 @@
             <h5>Blog Written: 08-05-2026 20:09</h5>
             <img src="https://t2.genius.com/unsafe/430x430/https%3A%2F%2Fimages.genius.com%2F9e8dc0fcfc12598296591559cf937e39.400x400x1.jpg" width="300" height="300">
             <p>I just love the bittersweetness with this one. A story about 2 gay prostitutes in love with each other. It needs to be listened and felt with all the gravity of the situation that sex workers face daily.</p>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/YbKN7OrqTxQ?si=eqJhdngeOAbZ2zyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <iframe width="480" height="315" src="https://www.youtube.com/embed/YbKN7OrqTxQ?si=eqJhdngeOAbZ2zyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
     </div>
     </body>
