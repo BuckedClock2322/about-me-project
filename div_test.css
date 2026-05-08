@@ -1,0 +1,64 @@
+.card{
+    width: 500px;
+    border: solid 1px #555;
+    background-color: powderblue;
+    padding: 1em;
+    margin: 1em;
+    border-radius: 3px;
+}
+
+
+div {
+  display: inline-block;
+  width: 25%;
+}
+
+.flex-container {
+    display: flex;
+}
+.flex-child {
+    flex: 1;
+    border: 2px solid yellow;
+}  
+.flex-child:first-child {
+    margin-right: 20px;
+} 
+
+
+
+.parent {
+  border: 1px solid black;
+  margin: 1rem;
+  padding: 2rem 2rem;
+  text-align: center;
+}
+.child {
+  display: inline-block;
+  border: 1px solid red;
+  padding: 1rem 1rem;
+  vertical-align: middle;
+}
+
+
+.container {  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  gap: 0px 0px;
+  grid-auto-flow: row;
+  grid-template-areas:
+    "sdb1 nav1 nav1 nav1 nav1"
+    "sdb1 crd1 crd1 crd2 crd2"
+    "sdb1 crd3 crd3 crd4 crd4";
+}
+
+.sdb1 { grid-area: sdb1; }
+
+.crd1 { grid-area: crd1; }
+
+.crd2 { grid-area: crd2; }
+
+.crd3 { grid-area: crd3; }
+
+.crd4 { grid-area: crd4; }
+
+.nav1 { grid-area: nav1; }
