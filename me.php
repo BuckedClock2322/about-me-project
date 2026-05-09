@@ -20,8 +20,8 @@
         <div class="content">
             <div class="card">
                 <h2>Fact File:</h2>
-                <p>DOB: 24-08-2008</p>
-                <p>Legal first name: James (shock i know)</p>
+                <p>DOB: ##-##-####</p>
+                <p>Legal first name: ##### (shocked i know)</p>
                 <p>I am a human</p>
                 <img src="elements/mug.jpg" width="300" height="300">
             </div>
