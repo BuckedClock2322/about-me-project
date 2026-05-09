@@ -13,8 +13,8 @@
     <body>
     <?php include 'sidebar.php' ?>
         <div class="content">
-            <h1>About Me</h1>
-            <h3>What's there to know?</h3>
+            <h1 class="title">About Me</h1>
+            <h3 class="subtitle">What's there to know?</h3>
         </div>
         <div></div>
         <div class="content">

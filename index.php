@@ -13,9 +13,9 @@
     <body>
     <?php include 'sidebar.php' ?>
         <div class="content">
-            <h1>Hello There!</h1>
-            <p>This is the home page of the "about me" project.</p>
-            <p>Please keep in mind that this was developed while I was learning HTML for the first time.</p>
+            <h1 class="title">Hello There!</h1>
+            <p class="subtitle">This is the home page of the "about me" project.</p>
+            <p class="subtitle">Please keep in mind that this was developed while I was learning HTML for the first time.</p>
         </div>
         <div></div>
         <div class="content">

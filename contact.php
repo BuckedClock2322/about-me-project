@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Conatct Me (but don't)</title>
+        <title>Contact Me (but don't)</title>
         <link href="global.css" rel="stylesheet" type="text/css"/>
         <style>
             body{
@@ -13,8 +13,8 @@
     <body>
     <?php include 'sidebar.php' ?>
         <div class="content">
-            <h1>Contact Page</h1>
-            <h3>Why would you?</h3>
+            <h1 class="title contact-text">Contact Page</h1>
+            <h3 class="subtitle contact-text">Why would you?</h3>
         </div>
         <div></div>
         <div class="content">

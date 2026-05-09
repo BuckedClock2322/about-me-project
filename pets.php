@@ -14,7 +14,7 @@
     <?php include 'sidebar.php' ?>
 
         <div class="content">
-            <h1>Pets (I Wish I had)</h1>
+            <h1 class="contact-text title">Pets (I Wish I had)</h1>
         </div>
         <div>
 
