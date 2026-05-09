@@ -5,7 +5,7 @@
 
     <title>CD Collection</title>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+
     <link href="global.css" rel="stylesheet" type="text/css"/>
     <style>
         body{
