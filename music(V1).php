@@ -2,7 +2,7 @@
 <html>
     <head>
         <title>Music Blog</title>
-        <link href="global.css" rel="stylesheet" type="text/css"/>
+        <link href="global(v2).css" rel="stylesheet" type="text/css"/>
         <style>
             body{
                 background-image: url(elements/record.jpeg);

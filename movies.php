@@ -5,7 +5,8 @@
 
     <title>Movie Blog</title>
 
-    <link href="global.css" rel="stylesheet" type="text/css"/>
+    <link href="global(v2.1).css" rel="stylesheet" type="text/css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <style>
         body{
