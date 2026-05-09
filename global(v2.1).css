@@ -279,7 +279,134 @@ td{
 
 @media screen and (max-width: 768px){
 
-    /* TOP BAR */ .mobile-topbar{ display: flex; justify-content: space-between; align-items: center; position: sticky; top: 0; background: rgba(10,10,10,0.96); padding: 1rem; z-index: 1000; backdrop-filter: blur(10px); } .mobile-title{ color: white; font-size: 1.2rem; } /* HAMBURGER */ .menu-button{ background: none; border: none; color: white; font-size: 2rem; cursor: pointer; } /* MOBILE SIDEBAR */ .sidenav{ display: none; position: absolute; top: 72px; left: 0; width: 100%; height: auto; padding-top: 0; background: rgba(10,10,10,0.98); } /* SHOW MENU */ .show-menu{ display: flex; } /* MOBILE LINKS */ .sidenav a{ border-left: none; border-bottom: 1px solid rgba(255,255,255,0.08); text-align: center; } .sidenav a:hover{ border-left: none; padding-left: 1.5rem; } /* CONTENT */ .content{ margin-left: 0; padding: 1rem; } /* TITLES */ .title{ font-size: 2rem; } /* MOBILE GRID */ .card-container{ grid-template-columns: 1fr; } /* CARDS */ .card{ max-width: 100%; } /* VIDEOS */ .card iframe{ height: 220px; } /* EXTRA IMAGE */ .extra-image{ width: 150px; }}
+    /* =========================
+       TOP BAR
+    ========================== */
+    .mobile-topbar{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+        position: sticky;
+        top: 0;
+
+        background: rgba(10,10,10,0.96);
+        padding: 1rem;
+
+        z-index: 1000;
+        backdrop-filter: blur(10px);
+    }
+
+    .mobile-title{
+        color: white;
+        font-size: 1.2rem;
+    }
+
+    /* =========================
+       HAMBURGER BUTTON
+    ========================== */
+    .menu-button{
+        background: none;
+        border: none;
+        color: white;
+        font-size: 2rem;
+        cursor: pointer;
+    }
+
+    /* =========================
+       MOBILE NAV (ANIMATED)
+    ========================== */
+    .sidenav{
+        display: flex;
+        flex-direction: column;
+
+        position: absolute;
+        top: 72px;
+        left: 0;
+        width: 100%;
+
+        background: rgba(10,10,10,0.98);
+
+        overflow: hidden;
+
+        max-height: 0;
+        opacity: 0;
+        transform: translateY(-10px);
+
+        transition:
+                max-height 0.4s ease,
+                opacity 0.3s ease,
+                transform 0.3s ease;
+    }
+
+    /* OPEN STATE */
+    .show-menu{
+        max-height: 600px; /* enough for all links */
+        opacity: 1;
+        transform: translateY(0);
+    }
+
+    /* =========================
+       NAV LINKS
+    ========================== */
+    .sidenav a{
+        display: block;
+        width: 100%;
+
+        text-align: center;
+
+        padding: 1rem;
+
+        border-bottom: 1px solid rgba(255,255,255,0.08);
+
+        color: white;
+        text-decoration: none;
+    }
+
+    .sidenav a:hover{
+        background: rgba(255,255,255,0.05);
+    }
+
+    /* =========================
+       CONTENT AREA
+    ========================== */
+    .content{
+        margin-left: 0;
+        padding: 1rem;
+    }
+
+    /* =========================
+       TITLES
+    ========================== */
+    .title{
+        font-size: 2rem;
+    }
+
+    /* =========================
+       GRID LAYOUT
+    ========================== */
+    .card-container{
+        grid-template-columns: 1fr;
+    }
+
+    .card{
+        max-width: 100%;
+    }
+
+    /* =========================
+       VIDEOS
+    ========================== */
+    .card iframe{
+        height: 220px;
+    }
+
+    /* =========================
+       EXTRA IMAGE
+    ========================== */
+    .extra-image{
+        width: 150px;
+    }
+}
 
 
 
