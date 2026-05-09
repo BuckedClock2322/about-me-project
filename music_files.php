@@ -3,6 +3,7 @@
     <head>
         <title>Listen To Some Music</title>
         <link href="global(v2.1).css" rel="stylesheet" type="text/css"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <style>
             body{
                 background-image: url(elements/record.jpeg);

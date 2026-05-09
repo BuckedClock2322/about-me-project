@@ -279,58 +279,9 @@ td{
 
 @media screen and (max-width: 768px){
 
-    /* SIDEBAR */
+    /* TOP BAR */ .mobile-topbar{ display: flex; justify-content: space-between; align-items: center; position: sticky; top: 0; background: rgba(10,10,10,0.96); padding: 1rem; z-index: 1000; backdrop-filter: blur(10px); } .mobile-title{ color: white; font-size: 1.2rem; } /* HAMBURGER */ .menu-button{ background: none; border: none; color: white; font-size: 2rem; cursor: pointer; } /* MOBILE SIDEBAR */ .sidenav{ display: none; position: absolute; top: 72px; left: 0; width: 100%; height: auto; padding-top: 0; background: rgba(10,10,10,0.98); } /* SHOW MENU */ .show-menu{ display: flex; } /* MOBILE LINKS */ .sidenav a{ border-left: none; border-bottom: 1px solid rgba(255,255,255,0.08); text-align: center; } .sidenav a:hover{ border-left: none; padding-left: 1.5rem; } /* CONTENT */ .content{ margin-left: 0; padding: 1rem; } /* TITLES */ .title{ font-size: 2rem; } /* MOBILE GRID */ .card-container{ grid-template-columns: 1fr; } /* CARDS */ .card{ max-width: 100%; } /* VIDEOS */ .card iframe{ height: 220px; } /* EXTRA IMAGE */ .extra-image{ width: 150px; }}
 
-    .sidenav{
-        width: 100%;
 
-        height: auto;
-
-        position: relative;
-    }
-
-    .sidenav a{
-        text-align: center;
-    }
-
-    /* CONTENT */
-
-    .content{
-        margin-left: 0;
-
-        padding: 1rem;
-    }
-
-    /* TITLES */
-
-    .title{
-        font-size: 2rem;
-    }
-
-    /* CARD LAYOUT */
-
-    .card-container{
-        flex-direction: column;
-    }
-
-    /* CARDS */
-
-    .card{
-        width: 100%;
-    }
-
-    /* VIDEOS */
-
-    .card iframe{
-        height: 220px;
-    }
-
-    /* EXTRA IMAGE */
-
-    .extra-image{
-        width: 150px;
-    }
-}
 
 .contact-text{
     color: #111111;
