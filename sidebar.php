@@ -3,10 +3,7 @@
     <button class="menu-button" onclick="toggleMenu()">
         ☰
     </button>
-
-    <h2 class="mobile-title">
-        Jtrew
-    </h2>
+    
 
 </div>
 
