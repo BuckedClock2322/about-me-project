@@ -154,3 +154,13 @@ table{
 .contact-text{
     color: #111111;
 }
+
+.cd-case{
+    width: 100%;
+    max-height: 300px;
+    max-width: 300px;
+
+    object-fit: cover;
+
+    border-radius: 12px;
+}
