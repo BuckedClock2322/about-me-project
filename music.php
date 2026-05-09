@@ -74,11 +74,7 @@
 
             <h5>Blog Update: 08-05-26 20:16</h5>
 
-            <p>
-                It's funny to remember the circumstances I was in with this album.
-                I'll remember playing it while waiting for 28 Years Later to start
-                with the one I hope I'll remember.
-            </p>
+
 
             <iframe
                 src="https://www.youtube.com/embed/Z2BplWSCZpY?si=BqFYAlAK77dyqVV4"
@@ -103,7 +99,7 @@
                 I just love the bittersweetness with this one.
                 A story about 2 gay prostitutes in love with each other.
                 It needs to be listened to and felt with all the gravity
-                of the situation that sex workers face daily.
+                of the situation that sex workers face daily. Also, I just love The Decemberists. Indie darlings forever.
             </p>
 
             <iframe

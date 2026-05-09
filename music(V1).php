@@ -36,7 +36,7 @@
                 <img src="elements/Little_Simz_-_Lotus.png" width="300" height="300">
                 <p>Also good soup.</p>
                 <h5>Blog Update: 08-05-26 20:16</h5>
-                <p>It's funny to remember the circumstances I was in with this album. I'll remember playing it while waiting for 28 Years Later to start with the one I hope I'll remember.</p>
+
                 <iframe width="480" height="315" src="https://www.youtube.com/embed/Z2BplWSCZpY?si=BqFYAlAK77dyqVV4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
         </div>
