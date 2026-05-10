@@ -47,9 +47,18 @@
             <h5>Entry Written 09-05-26 18:38</h5>
             <img src="elements/album_covers/jointhedots.jpg" class="cd-case">
             <p>A straight-forward collection of all The Cure's B-sides and rarities. Comes in a long book format spread over 4 different discs. 70 songs, 20+ on CD for the first time and 10 released for the first time. Also includes a 76-page booklet documenting the journey of The Cure, from beginning to 2001.</p>
-            <p>I really need to find Bloodflowers on CD, it's an actually amazing album and it just gets overshadowed because it was released in the 2000's where The Cure had a bad spot in the later years.</p>
+            <p>I really need to find Bloodflowers on CD, it's an actually amazing album, and it just gets overshadowed because it was released in the 2000's where The Cure had a bad spot in the later years.</p>
         </div>
 
+        <div class="card">
+            <h2>Mitski - Nothing's About To Happen To Me</h2>
+            <h4>Discogs Med-High Price: £9.48 - £51.10</h4>
+            <h5>Entry Written 10-05-26 17:56</h5>
+            <img src="elements/album_covers/mitski.jpg" class="cd-case">
+            <p>This is the most recent Mitski album. The reason why the high price is around £50 is because it was sealed and signed by Mitski herself.</p>
+            <p>The music is amazing, as usual. However, this release was disappointing to me as it just came in a digisleeve without a booklet. I paid £12 for this, the least Dead Oceans could do was give me a lyric sheet but no. It's just a really tight digisleeve so it's extremely hard to get the disc out without it scratching.</p>
+            
+        </div>
 
     </div>
 </div>
