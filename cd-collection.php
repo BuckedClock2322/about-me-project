@@ -57,7 +57,7 @@
             <img src="elements/album_covers/mitski.jpg" class="cd-case">
             <p>This is the most recent Mitski album. The reason why the high price is around £50 is because it was sealed and signed by Mitski herself.</p>
             <p>The music is amazing, as usual. However, this release was disappointing to me as it just came in a digisleeve without a booklet. I paid £12 for this, the least Dead Oceans could do was give me a lyric sheet but no. It's just a really tight digisleeve so it's extremely hard to get the disc out without it scratching.</p>
-            
+
         </div>
 
     </div>
